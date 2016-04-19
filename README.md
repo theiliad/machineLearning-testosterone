@@ -10,4 +10,6 @@ I decided to go ahead and make it one more time!
 
 <img src="https://github.com/theiliad/machineLearning-testosterone/blob/master/screenshot.gif?raw=true" width="600" />
 
+<b>Please Note: </b> The dataset that you need to have for a machine learning program must be much larger than this for the predictions to be more precise!
+
 <img src="http://elitemensguide.com/assets/Normal-Testosterone-Levels-By-Age.png" />
