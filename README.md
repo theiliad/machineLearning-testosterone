@@ -7,3 +7,5 @@ After seeing these series from Google:
 https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 
 I decided to go ahead and make it one more time!
+
+<img src="https://github.com/theiliad/machineLearning-testosterone/blob/master/screenshot.gif?raw=true" />
