@@ -9,3 +9,5 @@ https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 I decided to go ahead and make it one more time!
 
 <img src="https://github.com/theiliad/machineLearning-testosterone/blob/master/screenshot.gif?raw=true" width="600" />
+
+<img src="http://elitemensguide.com/assets/Normal-Testosterone-Levels-By-Age.png" />
